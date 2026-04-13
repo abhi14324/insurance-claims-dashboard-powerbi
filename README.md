@@ -199,6 +199,11 @@ Power BI Service Link : https://app.powerbi.com/groups/5c58b448-32db-4206-88e0-2
 
 ---
 
+📸 Screenshots :
+
+![insurance-claims-dashboard-powerbi](screenshots)
+
+
 ## Project Folder Structure
 
 insurance-claims-dashboard/
