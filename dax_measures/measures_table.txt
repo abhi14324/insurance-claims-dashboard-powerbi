@@ -1,0 +1,22 @@
+Active Policies = 
+CALCULATE(
+    COUNTROWS('InsuranceData'),
+    'InsuranceData'[Active/Inactive] = "Active"
+)
+
+
+
+Claim Approval Rate = 
+DIVIDE(
+    CALCULATE(COUNTROWS('InsuranceData'), 'InsuranceData'[ClaimStatus] = "Settled"),
+    COUNTROWS('InsuranceData')
+) 
+
+
+Claim Rejection Rate = 
+DIVIDE(
+    CALCULATE(COUNTROWS('InsuranceData'), 'InsuranceData'[ClaimStatus] = "Rejected"),
+    COUNTROWS('InsuranceData')
+)
+
+
