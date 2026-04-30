@@ -28,12 +28,19 @@ The project combines:
 Insurance companies face several operational challenges that make it difficult to monitor and manage their business effectively:
 
 No centralized reporting system exists to track claims, policies, and customer data in one place — management has to rely on scattered Excel files and manual reports
+
 Claim rejection rate is very high (~43%) but there is no visual tool to identify which policy types, age groups, or regions are driving the rejections
+
 Pending claims (~22%) are untracked — there is no dedicated monitoring for claims that are stuck in the pipeline, causing revenue leakage and customer dissatisfaction
+
 Premium performance across policy types (Travel, Health, Auto, Life, Home) is not compared in real time — making it hard to identify which products are most profitable
+
 Active vs Inactive policy ratio is unknown at a glance — without this, management cannot assess portfolio health or take retention action
+
 Customer feedback is collected but never analyzed — there is no system to extract sentiment trends or identify common pain points from customer responses
+
 Age group claim behavior is not studied — the company does not know which customer segment (Adult, Elder, Young Adult) is filing the most claims
+
 Monthly claim trends are not monitored — seasonal spikes or dips in claim activity go unnoticed without a time-based visual
 
 ---
